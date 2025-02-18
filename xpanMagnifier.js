@@ -15,7 +15,7 @@ var css = `
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   pointer-events: none;
   z-index: 1000;
-  background: transparent no-repeat;
+  background: #fff no-repeat;
   cursor: none;
 } `;
 
